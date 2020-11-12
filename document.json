@@ -1,0 +1,39 @@
+{
+  "name": "Landsat 8 Dataset",
+  "description": "An ongoing collection of satellite imagery of all land on Earth produced by the Landsat 8 satellite.",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": false,
+  "stack_id": "landsat-8-dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "Environment"
+  ],
+  "platform": "Kubernetes",
+  "cover": "cover.md",
+  "commands": [],
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ],
+  "buckets": [
+    "landsat-pds",   
+    "landsat-pds-inventory"
+  ],
+  "meta": {
+    "Install time": [
+      "2 minutes"
+    ],
+    "Type": [
+      "Dataset",
+      "S3"
+    ],
+    "Tag": [ "S3" ],
+    "categories": [
+      "Environment"
+    ]
+  },
+  "isDocumentSaved": true
+}

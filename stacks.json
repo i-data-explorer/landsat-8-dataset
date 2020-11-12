@@ -1,0 +1,22 @@
+{
+  "title": "Landsat 8 Dataset",
+  "description": "An ongoing collection of satellite imagery of all land on Earth produced by the Landsat 8 satellite.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset",
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "landsat-8-dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "Environment"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+}
