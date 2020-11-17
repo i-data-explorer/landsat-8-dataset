@@ -3,7 +3,7 @@
   "description": "An ongoing collection of satellite imagery of all land on Earth produced by the Landsat 8 satellite.",
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
-  "stack_id": "landsat-8-dataset",
+  "de_catalog_id": "landsat-8-dataset",
   "type": "dataset-s3",
   "categories": [
     "Environment"
